@@ -1,0 +1,2 @@
+med class_weights = {0: 1., 1: 0.5, 2: 1.} ble det predikert bare hold på alle..
+

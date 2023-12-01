@@ -1,0 +1,3 @@
+med class_weights = {0: 1., 1: 0.5, 2: 1.} ble det predikert bare hold på alle..
+
+22:45: Har nå prøvd å endre til en større modell og endret vekting til å være det samme på alle.
